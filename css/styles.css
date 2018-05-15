@@ -1,0 +1,692 @@
+/* 
+** ICOMOON
+*/
+@font-face {
+  font-family: 'icomoon';
+  src: url("../fonts/icomoon.eot?2020");
+  src: url("../fonts/icomoon.eot?#iefix1234") format("embedded-opentype"), url("../fonts/icomoon.woff?2020") format("woff"), url("../fonts/icomoon.ttf?2020") format("truetype"), url("../fonts/icomoon.svg?2020#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Oswald';
+  src: url("../fonts/Oswald-Medium.eot?2020");
+  src: url("../fonts/Oswald-Medium.eot?#iefix1234") format("embedded-opentype"), url("../fonts/Oswald-Medium.woff?2020") format("woff"), url("../fonts/Oswald-Medium.ttf?2020") format("truetype"), url("../fonts/Oswald-Medium.svg?2020#Oswald-Medium") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon-money-bag:before {
+  content: "\e904"; }
+
+.icon-word-bubbles:before {
+  content: "\e905"; }
+
+.icon-new-tab:before {
+  content: "\e802"; }
+
+.icon-uk-flag:before {
+  content: "\e801"; }
+
+.icon-ribbon:before {
+  content: "\e800"; }
+
+.icon-mill-maker:before {
+  content: "\e64e"; }
+
+.icon-ESP:before {
+  content: "\e64d" !important; }
+
+.icon-d-crown:before {
+  content: "\e64c"; }
+
+.icon-LoL:before, .icon-HAH:before {
+  content: "\e64b"; }
+
+.icon-Bo3:before {
+  content: "\e641"; }
+
+.icon-Bo5:before {
+  content: "\e642"; }
+
+.icon-Bo7:before {
+  content: "\e643"; }
+
+.icon-G1:before {
+  content: "\e644"; }
+
+.icon-G2:before {
+  content: "\e645"; }
+
+.icon-G3:before {
+  content: "\e646"; }
+
+.icon-G4:before {
+  content: "\e647"; }
+
+.icon-G5:before {
+  content: "\e648"; }
+
+.icon-G6:before {
+  content: "\e649"; }
+
+.icon-G7:before {
+  content: "\e64a"; }
+
+.icon-edit:before {
+  content: "\e640"; }
+
+.icon-video:before {
+  content: "\e63f"; }
+
+.icon-megaphone:before {
+  content: "\e63e"; }
+
+.icon-lineup-ready:before {
+  content: "\e63d"; }
+
+.icon-arrow-left:before {
+  content: "\e63b"; }
+
+.icon-arrow-right:before {
+  content: "\e63c"; }
+
+.icon-circle-check:before {
+  content: "\e63a"; }
+
+.icon-one-head:before {
+  content: "\e639"; }
+
+.icon-friend-plus:before {
+  content: "\e638"; }
+
+.icon-NAS:before {
+  content: "\e600"; }
+
+.icon-arrow-down:before {
+  content: "\e601"; }
+
+.icon-arrow-up:before {
+  content: "\e602"; }
+
+.icon-CBB:before {
+  content: "\e603"; }
+
+.icon-CFB:before {
+  content: "\e604"; }
+
+.icon-check-board:before {
+  content: "\e605"; }
+
+.icon-check:before {
+  content: "\e606"; }
+
+.icon-checkered-flag:before {
+  content: "\e607"; }
+
+.icon-chevron:before {
+  content: "\e608"; }
+
+.icon-close:before {
+  content: "\e609"; }
+
+.icon-contests:before,
+.icon-money:before {
+  content: "\e60a"; }
+
+.icon-create-contest:before {
+  content: "\e60b"; }
+
+.icon-create-lineup:before {
+  content: "\e60c"; }
+
+.icon-early:before {
+  content: "\e60d"; }
+
+.icon-error:before {
+  content: "\e60e"; }
+
+.icon-ex:before {
+  content: "\e60f"; }
+
+.icon-export:before {
+  content: "\e610"; }
+
+.icon-friend-check:before {
+  content: "\e611"; }
+
+.icon-friend-plus:before {
+  content: "\e638"; }
+
+.icon-garaged:before {
+  content: "\e612"; }
+
+.icon-guaranteed:before {
+  content: "\e613"; }
+
+.icon-import:before {
+  content: "\e614"; }
+
+.icon-important:before,
+.icon-exclamation:before,
+.icon-exclamation-sign:before,
+.icon-medkit:before {
+  content: "\e615"; }
+
+.icon-info:before {
+  content: "\e616"; }
+
+.icon-key:before {
+  content: "\e617"; }
+
+.icon-late:before {
+  content: "\e618"; }
+
+.icon-lineups:before {
+  content: "\e619"; }
+
+.icon-live:before {
+  content: "\e61a"; }
+
+.icon-lobby:before {
+  content: "\e61b"; }
+
+.icon-MLB:before {
+  content: "\e61c"; }
+
+.icon-MMA:before {
+  content: "\e61d"; }
+
+.icon-multi-entry:before {
+  content: "\e61e"; }
+
+.icon-NBA:before {
+  content: "\e61f"; }
+
+.icon-NFL:before {
+  content: "\e620"; }
+
+.icon-NHL:before {
+  content: "\e621"; }
+
+.icon-notification-bell:before {
+  content: "\e622"; }
+
+.icon-one-head:before {
+  content: "\e639"; }
+
+.icon-out:before {
+  content: "\e623"; }
+
+.icon-PGA:before {
+  content: "\e624"; }
+
+.icon-play-now:before {
+  content: "\e625"; }
+
+.icon-plus:before {
+  content: "\e626"; }
+
+.icon-promotions:before {
+  content: "\e627"; }
+
+.icon-RAF:before {
+  content: "\e628"; }
+
+.icon-recent:before {
+  content: "\e629"; }
+
+.icon-refresh:before {
+  content: "\e62a"; }
+
+.icon-running:before {
+  content: "\e62b"; }
+
+.icon-search:before {
+  content: "\e62c"; }
+
+.icon-share:before {
+  content: "\e62d"; }
+
+.icon-SOC:before {
+  content: "\e62e"; }
+
+.icon-flag:before,
+.icon-solid-flag:before {
+  content: "\e62f"; }
+
+.icon-star:before,
+.icon-thumbs-up:before {
+  content: "\e630"; }
+
+.icon-swap:before {
+  content: "\e631"; }
+
+.icon-three-heads:before,
+.icon-group:before {
+  content: "\e632"; }
+
+.icon-ticket:before {
+  content: "\e633"; }
+
+.icon-tool-tip:before {
+  content: "\e634"; }
+
+.icon-trash:before {
+  content: "\e635"; }
+
+.icon-two-heads:before,
+.icon-user:before {
+  content: "\e636"; }
+
+.icon-upcoming:before {
+  content: "\e637"; }
+
+/*
+** Global Styles
+*/
+body {
+  font: 14px 'Open Sans', sans-serif !important;
+  background: #474648 url("../images/stadium-bg.jpg") no-repeat fixed;
+  background-size: cover;
+  color: #f7f6f8;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.dk-main {
+  width: 1024px;
+  margin: 0 auto;
+  text-align: left; }
+
+a {
+  color: #00b1c4; }
+  a:hover {
+    color: #00b1c4;
+    text-decoration: underline; }
+
+.hidden {
+  display: none; }
+
+.dk-body-wrap {
+  padding: 90px 20px 40px 20px;
+  margin: 0px auto;
+  width: calc(100% - 40px);
+  max-width: 1024px;
+  text-align: center; }
+  .dk-body-wrap .masthead {
+    position: fixed;
+    top: calc(50vh - 100px);
+    width: 380px;
+    text-align: left; }
+    .dk-body-wrap .masthead h2 {
+      font-weight: 700;
+      font-size: 20px;
+      margin: 0;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      border-bottom: 1px solid #767577;
+      padding-bottom: 16px;
+      margin-bottom: 32px; }
+      .dk-body-wrap .masthead h2 img {
+        width: 90px;
+        margin-left: 8px; }
+    .dk-body-wrap .masthead h3 {
+      font-weight: 800;
+      font-size: 48px;
+      letter-spacing: 4px;
+      line-height: 52px;
+      margin: 0; }
+    .dk-body-wrap .masthead p {
+      font-size: 20px;
+      margin: 24px 0;
+      line-height: 32px; }
+      .dk-body-wrap .masthead p span {
+        font-size: 24px;
+        font-weight: bold; }
+  .dk-body-wrap .main-content {
+    width: 580px;
+    padding-left: 440px; }
+    .dk-body-wrap .main-content .matchups, .dk-body-wrap .main-content .tiebreaker, .dk-body-wrap .main-content .name {
+      width: 100%;
+      max-width: 580px;
+      margin: 0 auto; }
+      .dk-body-wrap .main-content .matchups .matchup, .dk-body-wrap .main-content .tiebreaker .matchup, .dk-body-wrap .main-content .name .matchup {
+        background-color: #383739;
+        padding: 16px;
+        margin: 8px 8px 24px 8px;
+        width: calc(100% - 48px);
+        -webkit-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.16);
+                box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.16);
+        border-radius: 10px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; }
+        .dk-body-wrap .main-content .matchups .matchup > div:first-child, .dk-body-wrap .main-content .tiebreaker .matchup > div:first-child, .dk-body-wrap .main-content .name .matchup > div:first-child {
+          width: 60%; }
+        .dk-body-wrap .main-content .matchups .matchup .question, .dk-body-wrap .main-content .tiebreaker .matchup .question, .dk-body-wrap .main-content .name .matchup .question {
+          width: calc(50% - 32px);
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+              -ms-flex-align: center;
+                  align-items: center;
+          -webkit-box-pack: center;
+              -ms-flex-pack: center;
+                  justify-content: center;
+          font-size: 20px;
+          color: white;
+          font-weight: 700;
+          padding: 0 16px;
+          border-right: 3px solid #535254; }
+        .dk-body-wrap .main-content .matchups .matchup .answer, .dk-body-wrap .main-content .tiebreaker .matchup .answer, .dk-body-wrap .main-content .name .matchup .answer {
+          width: 40%; }
+          .dk-body-wrap .main-content .matchups .matchup .answer.picked input:not(:checked) + label, .dk-body-wrap .main-content .tiebreaker .matchup .answer.picked input:not(:checked) + label, .dk-body-wrap .main-content .name .matchup .answer.picked input:not(:checked) + label {
+            opacity: 0.4; }
+          .dk-body-wrap .main-content .matchups .matchup .answer > div:first-child, .dk-body-wrap .main-content .tiebreaker .matchup .answer > div:first-child, .dk-body-wrap .main-content .name .matchup .answer > div:first-child {
+            margin-bottom: 8px;
+            position: relative; }
+            .dk-body-wrap .main-content .matchups .matchup .answer > div:first-child:after, .dk-body-wrap .main-content .tiebreaker .matchup .answer > div:first-child:after, .dk-body-wrap .main-content .name .matchup .answer > div:first-child:after {
+              content: "@";
+              font-size: 20px;
+              position: absolute;
+              left: 83px;
+              top: 55px; }
+          .dk-body-wrap .main-content .matchups .matchup .answer > div > input, .dk-body-wrap .main-content .tiebreaker .matchup .answer > div > input, .dk-body-wrap .main-content .name .matchup .answer > div > input {
+            position: absolute;
+            left: -9999px; }
+            .dk-body-wrap .main-content .matchups .matchup .answer > div > input:checked + label div, .dk-body-wrap .main-content .tiebreaker .matchup .answer > div > input:checked + label div, .dk-body-wrap .main-content .name .matchup .answer > div > input:checked + label div {
+              border-color: #79c600;
+              position: relative; }
+              .dk-body-wrap .main-content .matchups .matchup .answer > div > input:checked + label div:before, .dk-body-wrap .main-content .tiebreaker .matchup .answer > div > input:checked + label div:before, .dk-body-wrap .main-content .name .matchup .answer > div > input:checked + label div:before {
+                content: "";
+                position: absolute;
+                background-color: #79c600;
+                border-radius: 50%;
+                left: 6px;
+                top: 6px;
+                width: 18px;
+                height: 18px; }
+          .dk-body-wrap .main-content .matchups .matchup .answer label, .dk-body-wrap .main-content .tiebreaker .matchup .answer label, .dk-body-wrap .main-content .name .matchup .answer label {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+            padding: 8px 16px;
+            cursor: pointer; }
+            .dk-body-wrap .main-content .matchups .matchup .answer label img, .dk-body-wrap .main-content .tiebreaker .matchup .answer label img, .dk-body-wrap .main-content .name .matchup .answer label img {
+              width: 50px; }
+            .dk-body-wrap .main-content .matchups .matchup .answer label span, .dk-body-wrap .main-content .tiebreaker .matchup .answer label span, .dk-body-wrap .main-content .name .matchup .answer label span {
+              font-size: 16px;
+              font-weight: 700;
+              color: white;
+              margin-left: 16px;
+              text-align: left;
+              max-width: 125px; }
+            .dk-body-wrap .main-content .matchups .matchup .answer label div, .dk-body-wrap .main-content .tiebreaker .matchup .answer label div, .dk-body-wrap .main-content .name .matchup .answer label div {
+              border-radius: 50%;
+              border: 2px solid #535254;
+              width: 30px;
+              height: 30px;
+              margin-left: auto; }
+            .dk-body-wrap .main-content .matchups .matchup .answer label input, .dk-body-wrap .main-content .tiebreaker .matchup .answer label input, .dk-body-wrap .main-content .name .matchup .answer label input {
+              width: 40px;
+              margin-left: auto;
+              font-size: 16px;
+              text-align: center; }
+        .dk-body-wrap .main-content .matchups .matchup .date-time, .dk-body-wrap .main-content .tiebreaker .matchup .date-time, .dk-body-wrap .main-content .name .matchup .date-time {
+          width: 40%;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+              -ms-flex-align: center;
+                  align-items: center;
+          -webkit-box-pack: center;
+              -ms-flex-pack: center;
+                  justify-content: center;
+          font-size: 16px;
+          line-height: 30px; }
+    .dk-body-wrap .main-content .tiebreaker .matchup > div:first-child {
+      width: 47%; }
+    .dk-body-wrap .main-content .tiebreaker .matchup .answer {
+      width: 46%; }
+      .dk-body-wrap .main-content .tiebreaker .matchup .answer > div:first-child:after {
+        left: 32px;
+        top: 30px; }
+    .dk-body-wrap .main-content .name .matchup > div:first-child {
+      width: 47%; }
+    .dk-body-wrap .main-content .name .matchup .answer {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      width: 45%; }
+      .dk-body-wrap .main-content .name .matchup .answer .your-name {
+        width: 100%;
+        margin-left: 32px;
+        padding: 4px;
+        font-size: 16px; }
+  .dk-body-wrap .error {
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+    margin: 0 0 16px 0; }
+
+.dk-btn {
+  border: 0;
+  font: 700 20px 'Open Sans Condensed', sans-serif;
+  padding: 5px 19px;
+  border-radius: 2px;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: .2px;
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  color: #fff;
+  background-color: #5ea600;
+  text-decoration: none; }
+  .dk-btn:hover {
+    background-color: #79c600;
+    color: #fff;
+    text-decoration: none; }
+  .dk-btn.disabled, .dk-btn.disabled:hover {
+    background-color: #767577;
+    color: #9b9a9c; }
+
+@media (max-width: 1024px) {
+  .dk-body-wrap .main-content {
+    width: 100%;
+    padding-left: 0; }
+  .dk-body-wrap .masthead {
+    margin: 8px auto 16px auto;
+    max-width: 564px;
+    width: 100%;
+    position: relative;
+    top: auto;
+    text-align: center; }
+    .dk-body-wrap .masthead h2 {
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      font-size: 16px;
+      margin-bottom: 16px; }
+      .dk-body-wrap .masthead h2 img {
+        width: 70px; }
+    .dk-body-wrap .masthead p {
+      font-size: 18px; }
+    .dk-body-wrap .masthead .teams div {
+      font-size: 28px;
+      line-height: 30px;
+      text-align: left; }
+      .dk-body-wrap .masthead .teams div span {
+        font-size: 16px;
+        line-height: 20px; }
+    .dk-body-wrap .masthead .teams img {
+      width: 75px;
+      height: 75px; } }
+
+@media (max-width: 768px) {
+  .dk-body-wrap .main-content .matchups .matchup, .dk-body-wrap .main-content .tiebreaker .matchup {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+    .dk-body-wrap .main-content .matchups .matchup > div:first-child, .dk-body-wrap .main-content .tiebreaker .matchup > div:first-child {
+      width: 100%; }
+    .dk-body-wrap .main-content .matchups .matchup .question, .dk-body-wrap .main-content .tiebreaker .matchup .question {
+      width: 100%;
+      padding: 0;
+      border-right: 0;
+      padding-bottom: 16px;
+      margin-bottom: 8px;
+      border-bottom: 3px solid #535254; }
+    .dk-body-wrap .main-content .matchups .matchup .answer, .dk-body-wrap .main-content .tiebreaker .matchup .answer {
+      width: 100%; }
+    .dk-body-wrap .main-content .matchups .matchup .date-time, .dk-body-wrap .main-content .tiebreaker .matchup .date-time {
+      width: 100%; }
+      .dk-body-wrap .main-content .matchups .matchup .date-time br, .dk-body-wrap .main-content .tiebreaker .matchup .date-time br {
+        display: none; } }
+
+.dk-body-wrap.leaderboard-body-wrap {
+  padding-top: 30px; }
+
+.leaderboard-container {
+  width: 1024px; }
+  .leaderboard-container .leaderboard-header {
+    background-color: #383739;
+    color: #fff;
+    display: grid;
+    grid-template-columns: 152px 1fr 70px;
+    font-size: 10px; }
+    .leaderboard-container .leaderboard-header > span {
+      padding: 8px;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center; }
+      .leaderboard-container .leaderboard-header > span:first-child {
+        padding: 8px 8px 8px 16px; }
+      .leaderboard-container .leaderboard-header > span.games-container {
+        padding: 0;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: start;
+            -ms-flex-pack: start;
+                justify-content: flex-start; }
+        .leaderboard-container .leaderboard-header > span.games-container span {
+          width: 32px;
+          text-align: center;
+          padding: 8px; }
+  .leaderboard-container .leaderboard {
+    background-color: #535254; }
+    .leaderboard-container .leaderboard .row {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      border-bottom: 1px solid #474648; }
+      .leaderboard-container .leaderboard .row div {
+        font-size: 14px;
+        padding: 16px 8px;
+        text-align: center;
+        width: 32px; }
+        .leaderboard-container .leaderboard .row div:first-child {
+          text-align: left;
+          width: 126px;
+          padding: 16px 8px 16px 16px;
+          -webkit-box-flex: 0;
+              -ms-flex-positive: 0;
+                  flex-grow: 0; }
+        .leaderboard-container .leaderboard .row div:last-child {
+          width: 55px;
+          margin-left: auto; }
+
+.success {
+  text-align: center;
+  padding: 80px 16px 0 16px; }
+  .success h1 {
+    color: #fff;
+    font-size: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    .success h1 span {
+      color: #79c600;
+      margin-right: 8px; }
+  .success p {
+    font-size: 16px; }
+
+@media (max-width: 1024px) {
+  .dk-body-wrap.leaderboard-body-wrap {
+    overflow: auto; }
+    .dk-body-wrap.leaderboard-body-wrap .leaderboard-container {
+      padding-right: 20px; } }
+
+@media (max-width: 768px) {
+  .success h1 {
+    display: block;
+    font-size: 22px; }
+  .success p {
+    font-size: 14px; } }
+
+header {
+  width: 100%;
+  position: fixed;
+  z-index: 9;
+  border-bottom: 3px solid #9b9a9c; }
+  header .header-inner {
+    background-color: #2b2a2c;
+    width: 100%;
+    padding: 0px;
+    border-bottom: 3px solid #2b2a2c;
+    margin: 0; }
+    header .header-inner .dk-main {
+      max-width: 1024px;
+      width: 100%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center; }
+      header .header-inner .dk-main img {
+        margin: 16px auto;
+        width: 200px; }
+      header .header-inner .dk-main .amount-completed {
+        width: 0;
+        height: 3px;
+        position: absolute;
+        bottom: -3px;
+        left: 0;
+        background-color: #9ae200; }

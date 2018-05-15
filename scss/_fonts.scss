@@ -1,0 +1,307 @@
+/* 
+** ICOMOON
+*/
+
+@font-face {
+    font-family: 'icomoon';
+    src:url('#{$font-path}/icomoon.eot?2020');
+    src:url('#{$font-path}/icomoon.eot?#iefix1234') format('embedded-opentype'),
+        url('#{$font-path}/icomoon.woff?2020') format('woff'),
+        url('#{$font-path}/icomoon.ttf?2020') format('truetype'),
+        url('#{$font-path}/icomoon.svg?2020#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src:url('#{$font-path}/Oswald-Medium.eot?2020');
+    src:url('#{$font-path}/Oswald-Medium.eot?#iefix1234') format('embedded-opentype'),
+        url('#{$font-path}/Oswald-Medium.woff?2020') format('woff'),
+        url('#{$font-path}/Oswald-Medium.ttf?2020') format('truetype'),
+        url('#{$font-path}/Oswald-Medium.svg?2020#Oswald-Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-money-bag:before {
+    content: "\e904";
+}
+.icon-word-bubbles:before {
+    content: "\e905";
+}
+.icon-new-tab:before {
+	content: "\e802";
+}
+.icon-uk-flag:before {
+	content: "\e801";
+}
+.icon-ribbon:before {
+	content: "\e800";
+}
+.icon-mill-maker:before {
+	content: "\e64e";
+}
+.icon-ESP:before {
+	content: "\e64d" !important;
+}
+.icon-d-crown:before {
+	content: "\e64c";
+}
+.icon-LoL:before, .icon-HAH:before {
+	content: "\e64b";
+}
+.icon-Bo3:before {
+	content: "\e641";
+}
+.icon-Bo5:before {
+	content: "\e642";
+}
+.icon-Bo7:before {
+	content: "\e643";
+}
+.icon-G1:before {
+	content: "\e644";
+}
+.icon-G2:before {
+	content: "\e645";
+}
+.icon-G3:before {
+	content: "\e646";
+}
+.icon-G4:before {
+	content: "\e647";
+}
+.icon-G5:before {
+	content: "\e648";
+}
+.icon-G6:before {
+	content: "\e649";
+}
+.icon-G7:before {
+	content: "\e64a";
+}
+.icon-edit:before {
+	content: "\e640";
+}
+.icon-video:before {
+	content: "\e63f";
+}
+.icon-megaphone:before {
+	content: "\e63e";
+}
+.icon-lineup-ready:before {
+	content: "\e63d";
+}
+.icon-arrow-left:before {
+	content: "\e63b";
+}
+.icon-arrow-right:before {
+	content: "\e63c";
+}
+.icon-circle-check:before {
+	content: "\e63a";
+}
+.icon-one-head:before {
+	content: "\e639";
+}
+.icon-friend-plus:before {
+	content: "\e638";
+}
+
+.icon-NAS:before {
+    content: "\e600";
+}
+.icon-arrow-down:before {
+    content: "\e601";
+}
+.icon-arrow-up:before {
+    content: "\e602";
+}
+.icon-CBB:before {
+    content: "\e603";
+}
+.icon-CFB:before {
+    content: "\e604";
+}
+.icon-check-board:before {
+    content: "\e605";
+}
+.icon-check:before {
+    content: "\e606";
+}
+.icon-checkered-flag:before {
+    content: "\e607";
+}
+.icon-chevron:before {
+    content: "\e608";
+}
+.icon-close:before {
+    content: "\e609";
+}
+.icon-contests:before,
+.icon-money:before {
+    content: "\e60a";
+}
+.icon-create-contest:before {
+    content: "\e60b";
+}
+.icon-create-lineup:before {
+    content: "\e60c";
+}
+.icon-early:before {
+    content: "\e60d";
+}
+.icon-error:before {
+    content: "\e60e";
+}
+.icon-ex:before {
+    content: "\e60f";
+}
+.icon-export:before {
+    content: "\e610";
+}
+.icon-friend-check:before {
+    content: "\e611";
+}
+.icon-friend-plus:before {
+	content: "\e638";
+}
+.icon-garaged:before {
+    content: "\e612";
+}
+.icon-guaranteed:before {
+    content: "\e613";
+}
+.icon-import:before {
+    content: "\e614";
+}
+.icon-important:before,
+.icon-exclamation:before,
+.icon-exclamation-sign:before,
+.icon-medkit:before {
+    content: "\e615";
+}
+.icon-info:before {
+    content: "\e616";
+}
+.icon-key:before {
+    content: "\e617";
+}
+.icon-late:before {
+    content: "\e618";
+}
+.icon-lineups:before {
+    content: "\e619";
+}
+.icon-live:before {
+    content: "\e61a";
+}
+.icon-lobby:before {
+    content: "\e61b";
+}
+.icon-MLB:before {
+    content: "\e61c";
+}
+.icon-MMA:before {
+    content: "\e61d";
+}
+.icon-multi-entry:before {
+    content: "\e61e";
+}
+.icon-NBA:before {
+    content: "\e61f";
+}
+.icon-NFL:before {
+    content: "\e620";
+}
+.icon-NHL:before {
+    content: "\e621";
+}
+.icon-notification-bell:before {
+    content: "\e622";
+}
+.icon-one-head:before {
+	content: "\e639";
+}
+.icon-out:before {
+    content: "\e623";
+}
+.icon-PGA:before {
+    content: "\e624";
+}
+.icon-play-now:before {
+    content: "\e625";
+}
+.icon-plus:before {
+    content: "\e626";
+}
+.icon-promotions:before {
+    content: "\e627";
+}
+.icon-RAF:before {
+    content: "\e628";
+}
+.icon-recent:before {
+    content: "\e629";
+}
+.icon-refresh:before {
+    content: "\e62a";
+}
+.icon-running:before {
+    content: "\e62b";
+}
+.icon-search:before {
+    content: "\e62c";
+}
+.icon-share:before {
+    content: "\e62d";
+}
+.icon-SOC:before {
+    content: "\e62e";
+}
+.icon-flag:before,
+.icon-solid-flag:before {
+    content: "\e62f";
+}
+.icon-star:before,
+.icon-thumbs-up:before {
+    content: "\e630";
+}
+.icon-swap:before {
+    content: "\e631";
+}
+.icon-three-heads:before,
+.icon-group:before {
+    content: "\e632";
+}
+.icon-ticket:before {
+    content: "\e633";
+}
+.icon-tool-tip:before {
+    content: "\e634";
+}
+.icon-trash:before {
+    content: "\e635";
+}
+.icon-two-heads:before,
+.icon-user:before {
+    content: "\e636";
+}
+.icon-upcoming:before {
+    content: "\e637";
+}
+

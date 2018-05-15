@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:og="http://opengraphprotocol.org/schema/" lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Eliminator</title>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
+		<link type="text/css" rel="stylesheet" href="css/styles.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+	</head>
+
+	<body>
+		<header id="responsive-header">
+		    <div class="header-inner dk-site-dashboard">
+		        <div class="dk-main">
+		            <img src="images/dk-eliminator-logo2.svg" alt="DK-Elimator"/>
+					<span class="amount-completed"></span>
+		        </div>
+		    </div>
+		</header>
+		<div class="dk-body-wrap">
+			<div class="masthead">
+				<h2>DK-Eliminator Presented by <img src="images/coca-cola.png"/ alt="coca-cola"></h2>
+				<h3>NFL WEEK <span></span></h3>
+				<p><span>Pick a winner for each game</span><br />Compete to pick all games correctly for your chance to share the $1Million Prize Pool!</p>
+			</div>
+			<div class="main-content">
+				<div class="name">
+					<div class="matchup">
+						<div class="question">YOUR NAME:</div>
+						<div class="answer">
+							<input type="text" name="" value="" class="your-name">
+						</div>
+					</div>
+				</div>
+				<div class="matchups">
+				</div>
+				<div class="tiebreaker">
+					<div class="matchup">
+		                <div class="question">TIEBREAKER:<br>Guess the score</div>
+						<div class="answer"></div>
+					</div>
+				</div>
+
+				<div class="error hidden">You need to make ALL your picks</div>
+				<a href="#" class="dk-btn dk-btn-success">FINISHED MAKING PICKS</a>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="js/main.js"></script>
+</html>
